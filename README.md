@@ -2,7 +2,7 @@
 ## NAME : S.VENGADA KRISHNAN
 ## REG.NO : 212223110061
 ## EX. NO.4
-## DATE 30.04.2024
+## DATE 30.04.2025
 ## Implementation of MLP with Backpropagation for Multiclassification>
 ## Aim:
 To implement a Multilayer Perceptron for Multi classification
